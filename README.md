@@ -1,0 +1,1 @@
+# Simulasi-GJB-dan-GLBB-Menggunakan-VBA-Excel
